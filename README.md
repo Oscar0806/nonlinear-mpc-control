@@ -41,4 +41,5 @@ Handles input constraints, nonlinearity, multivariable systems.
 Python, Streamlit, Plotly, SciPy, NumPy
  
 ## Author
-**Oscar V. Dbritto** 
+**Oscar Vincent Dbritto**
+M.Sc. Digitalization & Automation | [LinkedIn](https://linkedin.com/in/oscar-dbritto) | [Portfolio](https://oscardbritto.framer.website/)
