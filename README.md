@@ -8,7 +8,7 @@ and MPC (Model Predictive Control). Demonstrates nonlinear control
 and optimization-based control concepts.
  
 ## 🔗 Live Demo
-**[Open Simulator](https://your-url.streamlit.app)**
+**[Open Simulator](https://nonlinear-mpc-control-awryvhvks4a5cjxyw5cszq.streamlit.app/)**
  
 ## Features
 - Full nonlinear pendulum-on-cart dynamics
